@@ -1,0 +1,197 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "redirects": [
+    {
+      "source": "/about.html",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/cleaning-equipment.html",
+      "destination": "/cleaning-equipment",
+      "permanent": true
+    },
+    {
+      "source": "/construction-materials.html",
+      "destination": "/construction-materials",
+      "permanent": true
+    },
+    {
+      "source": "/contact.html",
+      "destination": "/contact",
+      "permanent": true
+    },
+    {
+      "source": "/gallery.html",
+      "destination": "/gallery",
+      "permanent": true
+    },
+    {
+      "source": "/outdoor-power.html",
+      "destination": "/outdoor-power",
+      "permanent": true
+    },
+    {
+      "source": "/product-chainsaws.html",
+      "destination": "/product-chainsaws",
+      "permanent": true
+    },
+    {
+      "source": "/product-compressors.html",
+      "destination": "/product-compressors",
+      "permanent": true
+    },
+    {
+      "source": "/product-construction-supply.html",
+      "destination": "/product-construction-supply",
+      "permanent": true
+    },
+    {
+      "source": "/product-diesel-pumps.html",
+      "destination": "/product-diesel-pumps",
+      "permanent": true
+    },
+    {
+      "source": "/product-hand-tools.html",
+      "destination": "/product-hand-tools",
+      "permanent": true
+    },
+    {
+      "source": "/product-power-tools.html",
+      "destination": "/product-power-tools",
+      "permanent": true
+    },
+    {
+      "source": "/product-pressure-washers.html",
+      "destination": "/product-pressure-washers",
+      "permanent": true
+    },
+    {
+      "source": "/product-water-pumps.html",
+      "destination": "/product-water-pumps",
+      "permanent": true
+    },
+    {
+      "source": "/product-wood-boards.html",
+      "destination": "/product-wood-boards",
+      "permanent": true
+    },
+    {
+      "source": "/products.html",
+      "destination": "/products",
+      "permanent": true
+    },
+    {
+      "source": "/projects.html",
+      "destination": "/projects",
+      "permanent": true
+    },
+    {
+      "source": "/promotions.html",
+      "destination": "/promotions",
+      "permanent": true
+    },
+    {
+      "source": "/services.html",
+      "destination": "/services",
+      "permanent": true
+    },
+    {
+      "source": "/water-systems.html",
+      "destination": "/water-systems",
+      "permanent": true
+    },
+    {
+      "source": "/workshop-equipment.html",
+      "destination": "/workshop-equipment",
+      "permanent": true
+    }
+  ],
+  "rewrites": [
+    {
+      "source": "/about",
+      "destination": "/about.html"
+    },
+    {
+      "source": "/cleaning-equipment",
+      "destination": "/cleaning-equipment.html"
+    },
+    {
+      "source": "/construction-materials",
+      "destination": "/construction-materials.html"
+    },
+    {
+      "source": "/contact",
+      "destination": "/contact.html"
+    },
+    {
+      "source": "/gallery",
+      "destination": "/gallery.html"
+    },
+    {
+      "source": "/outdoor-power",
+      "destination": "/outdoor-power.html"
+    },
+    {
+      "source": "/product-chainsaws",
+      "destination": "/product-chainsaws.html"
+    },
+    {
+      "source": "/product-compressors",
+      "destination": "/product-compressors.html"
+    },
+    {
+      "source": "/product-construction-supply",
+      "destination": "/product-construction-supply.html"
+    },
+    {
+      "source": "/product-diesel-pumps",
+      "destination": "/product-diesel-pumps.html"
+    },
+    {
+      "source": "/product-hand-tools",
+      "destination": "/product-hand-tools.html"
+    },
+    {
+      "source": "/product-power-tools",
+      "destination": "/product-power-tools.html"
+    },
+    {
+      "source": "/product-pressure-washers",
+      "destination": "/product-pressure-washers.html"
+    },
+    {
+      "source": "/product-water-pumps",
+      "destination": "/product-water-pumps.html"
+    },
+    {
+      "source": "/product-wood-boards",
+      "destination": "/product-wood-boards.html"
+    },
+    {
+      "source": "/products",
+      "destination": "/products.html"
+    },
+    {
+      "source": "/projects",
+      "destination": "/projects.html"
+    },
+    {
+      "source": "/promotions",
+      "destination": "/promotions.html"
+    },
+    {
+      "source": "/services",
+      "destination": "/services.html"
+    },
+    {
+      "source": "/water-systems",
+      "destination": "/water-systems.html"
+    },
+    {
+      "source": "/workshop-equipment",
+      "destination": "/workshop-equipment.html"
+    }
+  ]
+}

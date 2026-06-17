@@ -1,0 +1,24 @@
+OHGS FINAL READY PACKAGE
+This confirms Vercel is deploying the correct GitHub root.
+
+Videos included: 6
+1002044962.mp4
+1002044967.mp4
+1002044968.mp4
+1002044977.mp4
+1002058492.mp4
+1002061875.mp4
+
+Optimized videos package
+Videos: 6
+Before: 91.92 MB
+After: 27.38 MB
+Saved: 64.54 MB
+
+
+FINAL CLEAN UPLOAD BUILD
+Packaged: 2026-06-15 19:33:01
+Only active patch:
+- ohgs-final-clean-patch.css
+- ohgs-final-clean-patch.js
+Local server accepts POST /api/notify.

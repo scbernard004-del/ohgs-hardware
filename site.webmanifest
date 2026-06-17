@@ -1,0 +1,16 @@
+{
+  "name": "Olotu Hardware & General Supply LTD",
+  "short_name": "Olotu Hardware",
+  "description": "Olotu Hardware & General Supply LTD in Arusha supplies hardware tools, water pumps, power tools, construction materials, cleaning equipment, generators and project supply support.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#071426",
+  "theme_color": "#071426",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
