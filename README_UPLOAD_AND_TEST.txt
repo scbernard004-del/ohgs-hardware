@@ -58,3 +58,25 @@ Only active patch:
 - ohgs-final-clean-patch.css
 - ohgs-final-clean-patch.js
 Local server accepts POST /api/notify.
+
+
+
+OHGS FINAL MOBILE SPACING + DOMAIN READY PACKAGE
+Packaged: 2026-06-28 11:29:06
+
+Final visible fix:
+- Removed unwanted mobile header space between WhatsApp and menu.
+- Mobile header uses professional grid: brand | actions | menu.
+- Light/dark button works with one final controller.
+- Menu button works with one final controller.
+- Light mode brand text remains visible.
+- Loader uses OHGS logo with animated ring.
+- Product/shop photos are not resized by JS, so blinking should not return.
+
+Only active OHGS frontend patch:
+- ohgs-new-product-photos.css
+- ohgs-final-mobile-spacing-domain.css
+- ohgs-final-mobile-spacing-domain.js
+
+Upload everything inside this extracted folder to GitHub root.
+Redeploy Vercel without cache.
