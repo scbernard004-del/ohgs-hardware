@@ -1,0 +1,25 @@
+OHGS OPTIMIZED VIDEOS REPORT
+Packaged: 2026-06-12 10:29:04
+Base ZIP: OHGS_FINAL_GITHUB_VERCEL_WITH_VIDEOS.zip
+
+Videos processed: 6
+Total before: 91.92 MB
+Total after: 27.38 MB
+Saved: 64.54 MB
+
+Settings used:
+- MP4 / H.264
+- 720p maximum
+- 30 fps
+- CRF 28
+- AAC audio 96k
+- faststart for quicker website playback
+- HTML video tags patched with preload='metadata' and playsinline
+
+Files:
+- 1002044962.mp4: optimized | 28.40 MB -> 8.94 MB | saved 19.46 MB (68.5%)
+- 1002044967.mp4: optimized | 24.92 MB -> 7.24 MB | saved 17.67 MB (70.9%)
+- 1002044968.mp4: optimized | 24.64 MB -> 7.46 MB | saved 17.18 MB (69.7%)
+- 1002044977.mp4: optimized | 8.37 MB -> 2.58 MB | saved 5.80 MB (69.2%)
+- 1002058492.mp4: optimized | 3.55 MB -> 460.23 KB | saved 3.10 MB (87.4%)
+- 1002061875.mp4: optimized | 2.05 MB -> 731.84 KB | saved 1.33 MB (65.1%)
